@@ -5,3 +5,4 @@ Dự án sử dụng SQL Server để xây dựng database
 # Công nghệ sử dụng
 Website được tạo nên bởi công nghệ JSP/Servlet theo mô hình MVC
 Sử dụng bootrap để xây dựng giao diện
+
